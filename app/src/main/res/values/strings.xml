@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+
+    <!-- Pantalla principal -->
+    <string name="title_notes">Mis Notas</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="sync_notes">Sincronizar</string>
+
+    <!-- Diálogos -->
+    <string name="dialog_new_note">Nueva Nota</string>
+    <string name="dialog_edit_note">Editar Nota</string>
+    <string name="dialog_delete_title">Eliminar nota</string>
+    <string name="dialog_delete_message">¿Estás seguro de que deseas eliminar esta nota? Esta acción no se puede deshacer.</string>
+
+    <!-- Campos -->
+    <string name="field_title">Título</string>
+    <string name="field_content">Contenido</string>
+    <string name="error_title_required">El título es obligatorio</string>
+
+    <!-- Botones -->
+    <string name="button_save">Guardar</string>
+    <string name="button_update">Actualizar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_delete">Eliminar</string>
+
+    <!-- Estado vacío -->
+    <string name="empty_state_title">No hay notas</string>
+    <string name="empty_state_message">Toca el botón + para crear tu primera nota</string>
+
+    <!-- Estados de sincronización -->
+    <string name="status_not_synced">No sincronizado</string>
+    <string name="status_synced">Sincronizado</string>
+</resources>

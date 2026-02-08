@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Tema base de la app.
+        Se usa durante el splash screen y antes de que Compose tome control.
+    -->
+    <style name="Theme.Notes" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Color primario (barra de estado, etc.) -->
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+</resources>
