@@ -1,17 +1,4 @@
-    <!DOCTYPE html>
-    <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Política de Privacidad - Notes</title>
-        <style>
-            body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
-            h1, h2 { color: #333; }
-        </style>
-    </head>
-    <body>
-    
-        Política de Privacidad - Aplicación "tusNotas"
+
 Fecha de vigencia: 24 de febrero de 2026 Última actualización: 24 de febrero de 2026
 
 Introducción
@@ -179,6 +166,4 @@ Puedes dejar de usar la aplicación en cualquier momento
 
 Esta política es vinculante desde su fecha de vigencia. Al usar la Aplicación, aceptas esta Política de Privacidad.
 
-    </body>
-    </html>
-    
+   
